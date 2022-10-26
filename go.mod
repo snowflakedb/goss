@@ -12,7 +12,7 @@ require (
 	github.com/huandu/xstrings v1.3.2 // indirect
 	github.com/miekg/dns v1.1.49
 	github.com/mitchellh/copystructure v1.2.0 // indirect
-	github.com/moby/sys/mountinfo v0.6.1
+	github.com/moby/sys/mountinfo v0.6.2
 	github.com/oleiade/reflections v1.0.1
 	github.com/onsi/gomega v1.19.0
 	github.com/patrickmn/go-cache v2.1.0+incompatible
